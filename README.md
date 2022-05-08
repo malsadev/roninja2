@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mustafa Al-Sakkaf
-- 👀 I’m currently interested in database management via Java and jdbc driver for access.
 - 🌱 I’m currently a student at the University of Ottawa - studying Software Engineering
-- 💞️ I am also interested in javaScript and HTML.
 - 📫 How to reach me ...
 
 <!---
